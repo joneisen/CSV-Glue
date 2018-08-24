@@ -1,0 +1,43 @@
+#tag MultiImage
+Image glue
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAE8AAAAAAE8AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAAAAAAAAQkQAAf////8LZ2x1ZSgxKS5wbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAP////8AAAogY3UAAAAAAAAAAAAAAAAACURvd25sb2FkcwAAAgAjLzpVc2VyczplaXNlbjpEb3dubG9hZHM6Z2x1ZSgxKS5wbmcAAA4AGAALAGcAbAB1AGUAKAAxACkALgBwAG4AZwAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASACFVc2Vycy9laXNlbi9Eb3dubG9hZHMvZ2x1ZSgxKS5wbmcAABMAAS8AABUAAgAM//8AAAAAAAAAAA==
+		FullPath = /Users/eisen/Downloads/glue(1).png
+		PartialPath = ..\..\..\..\Downloads\glue(1).png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 256.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = 256.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAEuAAAAAAEuAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAAAAAAAAQkQAAf////8IZ2x1ZS5wbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAP////8AAAogY3UAAAAAAAAAAAAAAAAACURvd25sb2FkcwAAAgAgLzpVc2VyczplaXNlbjpEb3dubG9hZHM6Z2x1ZS5wbmcADgASAAgAZwBsAHUAZQAuAHAAbgBnAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAHlVzZXJzL2Vpc2VuL0Rvd25sb2Fkcy9nbHVlLnBuZwATAAEvAAAVAAIADP//AAAAAAAAAAA=
+		FullPath = /Users/eisen/Downloads/glue.png
+		PartialPath = ..\..\..\..\Downloads\glue.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 256.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = 256.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 256.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = 256.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

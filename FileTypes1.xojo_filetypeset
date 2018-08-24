@@ -1,0 +1,16 @@
+#tag FileTypeSet
+	#tag FileType
+		CodeName=CSV
+		Extension=csv
+		Flags=&h0
+		MacCreator=
+		MacType=
+		Name=CSV File (*.csv)
+		UTI=
+		UTIConformsTo=
+		Description=CSV
+		MimeType=
+		Imported=False
+	#tag EndFileType
+
+#tag EndFileTypeSet
